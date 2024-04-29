@@ -2,6 +2,8 @@
 
 ClotheFinder is your ultimate destination for effortless clothing discovery. Powered by cutting-edge technologies like Next.js, TypeScript, and Tailwind CSS, ClotheFinder offers a seamless search experience. Say goodbye to endless scrolling and hello to curated fashion finds. 💃👗🎩
 
+![Screenshot (30)](https://github.com/WaelTarabishi/ClothesFinder/assets/110033974/a41ea5af-1065-4741-b01e-ef55c09a1304)
+
 ## Features ✨
 
 - **Advanced Search:** Discover nearby clothing stores and items with precision. 🌟
